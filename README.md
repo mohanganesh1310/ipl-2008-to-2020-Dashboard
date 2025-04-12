@@ -1,5 +1,4 @@
 # ipl-2008-to-2020-Dashboard
-
 This project presents an interactive dashboard built using Microsoft Excel to analyze and visualize data from the Indian Premier League (IPL) from 2008 onwards. It offers key insights into team performances, toss decisions, player highlights, and venue statistics, all within a dynamic and user-friendly interface
 
 # Tools & Technologies
